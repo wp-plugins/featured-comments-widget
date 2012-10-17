@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Featured Comments\n"
-"POT-Creation-Date: 2012-10-17 04:55+0100\n"
-"PO-Revision-Date: 2012-10-17 04:55+0100\n"
+"POT-Creation-Date: 2012-10-17 23:26+0100\n"
+"PO-Revision-Date: 2012-10-17 23:26+0100\n"
 "Last-Translator: Andreu Llos <andreu.llos@gmail.com>\n"
 "Language-Team: Andreu Llos <hello@andreullos.com>\n"
 "MIME-Version: 1.0\n"
@@ -14,38 +14,38 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
-#: ../featured-comments.php:32
+#: ../featured-comments-widget.php:41
 msgid "Display the comments you want to feature"
 msgstr ""
 
-#: ../featured-comments.php:34 ../featured-comments.php:52
+#: ../featured-comments-widget.php:43 ../featured-comments-widget.php:61
 msgid "Featured Comments"
 msgstr ""
 
-#: ../featured-comments.php:56
+#: ../featured-comments-widget.php:65
 msgid "Title"
 msgstr ""
 
-#: ../featured-comments.php:59
+#: ../featured-comments-widget.php:68
 msgid "Number Of Comments To Show"
 msgstr ""
 
-#: ../featured-comments.php:61
+#: ../featured-comments-widget.php:70
 msgid "comments"
 msgstr ""
 
-#: ../featured-comments.php:64
+#: ../featured-comments-widget.php:73
 msgid "Number Of Words Per Comment"
 msgstr ""
 
-#: ../featured-comments.php:66
+#: ../featured-comments-widget.php:75
 msgid "words"
 msgstr ""
 
-#: ../featured-comments.php:69
+#: ../featured-comments-widget.php:78
 msgid "Select Featured Comments"
 msgstr ""
 
-#: ../featured-comments.php:118
-msgid "in"
+#: ../featured-comments-widget.php:127
+msgid "on"
 msgstr ""
