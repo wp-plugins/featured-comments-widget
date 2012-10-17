@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Comments\n"
+"POT-Creation-Date: 2012-10-17 04:55+0100\n"
+"PO-Revision-Date: 2012-10-17 04:57+0100\n"
+"Last-Translator: Andreu Llos <andreu.llos@gmail.com>\n"
+"Language-Team: Andreu Llos <hello@andreullos.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../featured-comments.php:32
+msgid "Display the comments you want to feature"
+msgstr "Muestra los comentarios que quieres destacar"
+
+#: ../featured-comments.php:34 ../featured-comments.php:52
+msgid "Featured Comments"
+msgstr "Comentarios destacados"
+
+#: ../featured-comments.php:56
+msgid "Title"
+msgstr "Título"
+
+#: ../featured-comments.php:59
+msgid "Number Of Comments To Show"
+msgstr "Número de comentarios a mostrar"
+
+#: ../featured-comments.php:61
+msgid "comments"
+msgstr "comentarios"
+
+#: ../featured-comments.php:64
+msgid "Number Of Words Per Comment"
+msgstr "Número de palabras por comentario"
+
+#: ../featured-comments.php:66
+msgid "words"
+msgstr "palabras"
+
+#: ../featured-comments.php:69
+msgid "Select Featured Comments"
+msgstr "Seleccionar comentarios destacados"
+
+#: ../featured-comments.php:118
+msgid "in"
+msgstr "en"
